@@ -4,6 +4,7 @@
 /postprocessed
 *_data.csv
 .ipynb_checkpoints/
-/csvs
 /models
 /__pycache__
+*.tar.gz
+/csvs*
